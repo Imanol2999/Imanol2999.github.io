@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff0f5; /* Un suave color de fondo que evoca dulzura */
+    color: #333; /* Color de texto más suave para mejorar la legibilidad */
+}
+
+.container {
+    padding: 20px;
+    max-width: 800px; /* Contenido centrado y no demasiado ancho */
+    margin: auto;
+}
+
+header, footer {
+    background-color: #ffb6c1; /* Un color rosado suave, inspirado en postres */
+    padding: 20px;
+    text-align: center;
+    color: #fff; /* Texto blanco para contraste */
+}
+
+section {
+    background-color: rgba(255, 182, 193, 0.6); /* Color rosado con transparencia */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px; /* Bordes redondeados para suavidad */
+}
+
+img {
+    width: 100%;
+    max-width: 250px; /* Imágenes más pequeñas y manejables */
+    margin: 10px;
+    border-radius: 10px; /* Bordes redondeados para las imágenes */
+}
+
+iframe {
+    display: block;
+    margin: 20px auto; /* Centrar el video */
+    border-radius: 10px; /* Bordes redondeados para el iframe del video */
+}
+
+footer a {
+    color: #fff; /* Texto blanco para enlaces en el footer */
+    text-decoration: none;
+    padding: 5px;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+footer a:hover {
+    background-color: #555; /* Efecto hover para enlaces */
+}
